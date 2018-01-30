@@ -4,7 +4,7 @@
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
       <li><a href="{{route('home')}}">Home</a></li>
-      <li><a href="sass.html">KI & KD</a></li>
+      <li><a href="{{route('kikd')}}">KI & KD</a></li>
       <li><a href="sass.html">Tujuan Pembelajaran</a></li>
       <li><a href="sass.html">Materi Pembelajaran</a></li>
       <li><a href="sass.html">Evaluasi</a></li>
