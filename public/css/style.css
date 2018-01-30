@@ -1,0 +1,9 @@
+body{
+  margin-bottom: 0;
+}
+.full-height {
+  min-height: 600px;
+}
+.half-height {
+  min-height: 300px;
+}
