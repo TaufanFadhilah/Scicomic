@@ -31,6 +31,14 @@ Route::get('/material/water', function () {
     return view('materials.water');
 })->name('material.water');
 
+Route::get('/about', function () {
+    return view('about');
+})->name('about');
+
+Route::get('/profile', function () {
+    return view('profile');
+})->name('profile');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home.index');

@@ -8,8 +8,8 @@
       <li><a href="{{route('objective')}}">Tujuan Pembelajaran</a></li>
       <li><a href="{{route('materials')}}">Materi Pembelajaran</a></li>
       <li><a href="sass.html">Evaluasi</a></li>
-      <li><a href="sass.html">Tentang Situs</a></li>
-      <li><a href="sass.html">Profil</a></li>
+      <li><a href="{{route('about')}}">Tentang Situs</a></li>
+      <li><a href="{{route('profile')}}">Profil</a></li>
       <li><a href="sass.html">Login</a></li>
     </ul>
     <ul class="side-nav" id="mobile-demo">
