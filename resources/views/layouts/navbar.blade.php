@@ -6,7 +6,7 @@
       <li><a href="{{route('home')}}">Home</a></li>
       <li><a href="{{route('kikd')}}">KI & KD</a></li>
       <li><a href="{{route('objective')}}">Tujuan Pembelajaran</a></li>
-      <li><a href="sass.html">Materi Pembelajaran</a></li>
+      <li><a href="{{route('materials')}}">Materi Pembelajaran</a></li>
       <li><a href="sass.html">Evaluasi</a></li>
       <li><a href="sass.html">Tentang Situs</a></li>
       <li><a href="sass.html">Profil</a></li>

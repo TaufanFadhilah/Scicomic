@@ -23,6 +23,10 @@ Route::get('/objective', function () {
     return view('objective');
 })->name('objective');
 
+Route::get('/materials', function () {
+    return view('materials');
+})->name('materials');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home.index');
