@@ -13,7 +13,7 @@
               <img src="{{asset('img/air.jpg')}}" class="responsive-img">
             </div>
             <div class="col l8 s12">
-              <h5 class="cyan-text">Pencemaran Air</h5> <br>
+              <a href="{{route('material.water')}}"><h5 class="cyan-text">Pencemaran Air</h5> <br></a>
               <p>
                 TEXT
               </p>

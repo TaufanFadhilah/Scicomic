@@ -27,6 +27,10 @@ Route::get('/materials', function () {
     return view('materials');
 })->name('materials');
 
+Route::get('/material/water', function () {
+    return view('materials.water');
+})->name('material.water');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home.index');
