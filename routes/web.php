@@ -19,6 +19,10 @@ Route::get('/kikd', function () {
     return view('KIKD');
 })->name('kikd');
 
+Route::get('/objective', function () {
+    return view('objective');
+})->name('objective');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home.index');
