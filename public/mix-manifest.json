@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/materialize.css": "/css/materialize.css",
+    "/css/app.css": "/css/app.css",
+    "/js/materialize.min.js": "/js/materialize.min.js",
+    "/js/jquery.hammer.js": "/js/jquery.hammer.js",
+    "/js/hammer.min.js": "/js/hammer.min.js",
+    "/js/jquery.easing.1.4.js": "/js/jquery.easing.1.4.js"
+}
