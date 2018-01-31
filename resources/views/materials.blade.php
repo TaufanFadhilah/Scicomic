@@ -30,7 +30,7 @@
               <img src="{{asset('img/udara.jpg')}}" class="responsive-img">
             </div>
             <div class="col l8 s12">
-              <h5 class="cyan-text">Pencemaran udara</h5> <br>
+              <a href="{{route('material.air')}}"><h5 class="cyan-text">Pencemaran udara</h5> <br></a>
               <p>
                 TEXT
               </p>
@@ -47,7 +47,7 @@
               <img src="{{asset('img/tanah.jpeg')}}" class="responsive-img">
             </div>
             <div class="col l8 s12">
-              <h5 class="cyan-text">Pencemaran Tanah</h5> <br>
+              <a href="{{route('material.land')}}"><h5 class="cyan-text">Pencemaran Tanah</h5> <br></a>
               <p>
                 TEXT
               </p>

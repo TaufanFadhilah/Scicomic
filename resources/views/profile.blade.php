@@ -4,12 +4,24 @@
   <div class="row">
       <div class="card">
         <div class="card-content full-height">
-          <pre>
-            Pengembang dan Pengarah Produk : Eka Kharisma Handayani, S.Pd
-            Dosen Pembimbing : Prof. Dr. Indyah Sulistyo Arty .ms.
-            Ilustrator : Pramudita Anisa Dewi dan Gols Studio
-            Pengembang Web : Taufan Fadhilah Iskandar
-          </pre>
+          <table>
+            <tr>
+              <td>Pengembang Produk</td>
+              <td>Eka Kharisma Handayani, S.Pd.</td>
+            </tr>
+            <tr>
+              <td>Dosen Pembimbing</td>
+              <td>Prof. Dr. Indyah Sulistyo Arty, M. S</td>
+            </tr>
+            <tr>
+              <td>Ilustrator</td>
+              <td>Pramudita Anisa Dewi dan Gals studio</td>
+            </tr>
+            <tr>
+              <td>Pengembang Web</td>
+              <td></td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

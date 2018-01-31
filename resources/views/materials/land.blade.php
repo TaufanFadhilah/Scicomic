@@ -20,11 +20,21 @@
         <li class="tab col s3"><a href="#test5">Daftar Pustaka</a></li>
       </ul>
     </div>
-    <div id="test1" class="col s12">Pendahuluand</div>
-    <div id="test2" class="col s12">Petunjuk</div>
-    <div id="test3" class="col s12">Komik</div>
-    <div id="test4" class="col s12">Glossarium</div>
-    <div id="test5" class="col s12">Daftar Pustaka</div>
+    <div id="test1" class="col s12">
+      @include('materials.preliminary.land')
+    </div>
+    <div id="test2" class="col s12">
+      @include('materials.instruction.land')
+    </div>
+    <div id="test3" class="col s12">
+      @include('materials.comic.land')
+    </div>
+    <div id="test4" class="col s12">
+      @include('materials.comic.land')
+    </div>
+    <div id="test5" class="col s12">
+      @include('materials.bibliography.land')
+    </div>
   </div>
 </div>
 @endsection

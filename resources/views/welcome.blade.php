@@ -14,17 +14,22 @@
   <div class="parallax">
     <img src="{{asset('img/header.jpg')}}">
   </div>
-  <h1 class="cyan-text">Scicomic</h1>
-  <h4 class="cyan-text">Komik Sains Menarik</h4>
+  <h1 class="amber-text">Scicomic</h1>
+  <h4 class="amber-text">Selamat datang di Komik Web IPA</h4>
 </div>
 <div class="container-fluid white half-height">
-  <div class="row" style="padding-top: 10%">
+  <div class="row" style="padding-top: 10%; padding-bottom: 10%">
     <div class="col l5 s12 center">
       <h3>Scicomic.web.id</h3>
     </div>
     <div class="col l7 s12">
       <p>
-        Tentang Web
+        &quot;Komik Web IPA&quot; adalah bahan ajar IPA yang dikembangkan sesuai dengan kurikulum 2013
+        dengan berorientasi pada langkah-langkah problem solving dan ditujukan untuk siswa-siswi
+        serta guru SMP/MTs. Anda dapat mempelajari tentang materi-materi mata pelajaran IPA
+        melalui tema-tema pelajaran yang dirancang dalam bentuk webcomic berorientasi problem
+        solving. Anda juga dapat mengunduh komik dan soal evaluasi terkait tema pelajaran-
+        pelajaran tersebut secara gratis.
       </p>
     </div>
   </div>
@@ -38,7 +43,7 @@
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Pencemaran Air<i class="material-icons right">more_vert</i></span>
-          <p><a href="#">Lihat Selengkapnya</a></p>
+          <p><a href="{{route('material.water')}}">Lihat Selengkapnya</a></p>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Pencemaran Air<i class="material-icons right"close></i></span>
@@ -63,7 +68,7 @@ Junaedi menegaskan, upaya yang ditempuh harus menyentuh dua aspek sekaligus, yak
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Pencemaran Udara<i class="material-icons right">more_vert</i></span>
-          <p><a href="#">Lihat Selengkapnya</a></p>
+          <p><a href="{{route('material.air')}}">Lihat Selengkapnya</a></p>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Pencemaran Udara<i class="material-icons right"close></i></span>
@@ -94,7 +99,7 @@ Sejauh ini, selain Dinkes yang telah menyebarkan masker gratis, sejumlah perusah
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Pencemaran Tanah<i class="material-icons right">more_vert</i></span>
-          <p><a href="#">Lihat Selengkapnya</a></p>
+          <p><a href="{{route('material.land')}}">Lihat Selengkapnya</a></p>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Pencemaran Tanah<i class="material-icons right"close></i></span>

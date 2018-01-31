@@ -31,6 +31,14 @@ Route::get('/material/water', function () {
     return view('materials.water');
 })->name('material.water');
 
+Route::get('/material/land', function () {
+    return view('materials.land');
+})->name('material.land');
+
+Route::get('/material/air', function () {
+    return view('materials.air');
+})->name('material.air');
+
 Route::get('/about', function () {
     return view('about');
 })->name('about');

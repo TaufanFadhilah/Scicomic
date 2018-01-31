@@ -10,7 +10,7 @@
       <li><a href="sass.html">Evaluasi</a></li>
       <li><a href="{{route('about')}}">Tentang Situs</a></li>
       <li><a href="{{route('profile')}}">Profil</a></li>
-      <li><a href="sass.html">Login</a></li>
+      <li><a href="{{route('login')}}">Login</a></li>
     </ul>
     <ul class="side-nav" id="mobile-demo">
       <li><a href="sass.html">Sass</a></li>
