@@ -1,3 +1,6 @@
+html {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 body{
   margin-bottom: 0;
 }
@@ -6,4 +9,7 @@ body{
 }
 .half-height {
   min-height: 300px;
+}
+.material-img{
+  border-radius: 10%;
 }
