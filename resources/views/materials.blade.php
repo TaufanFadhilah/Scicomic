@@ -10,7 +10,7 @@
         <div class="card-content">
           <div class="row">
             <div class="col l4 s12">
-              <img src="{{asset('img/air.jpg')}}" class="responsive-img material-img">
+              <img src="{{asset('img/air.png')}}" class="responsive-img material-img">
             </div>
             <div class="col l8 s12">
               <a href="{{route('material.water')}}"><h5 class="cyan-text">Pencemaran Air</h5> <br></a>

@@ -39,7 +39,7 @@
     <div class="col l4">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="{{asset('img/air.jpg')}}" style="height: 250px">
+          <img class="activator" src="{{asset('img/air.png')}}" style="height: 250px">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Pencemaran Air<i class="material-icons right">more_vert</i></span>
