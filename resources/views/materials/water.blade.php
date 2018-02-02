@@ -30,7 +30,7 @@
       @include('materials.comic.water')
     </div>
     <div id="test4" class="col s12">
-      @include('materials.comic.water')
+      @include('materials.glossarium.water')
     </div>
     <div id="test5" class="col s12">
       @include('materials.bibliography.water')
@@ -42,6 +42,7 @@
 <script type="text/javascript">
   $(document).ready(function(){
     $('ul.tabs').tabs();
+    $('select').material_select();
   });
 </script>
 @endpush

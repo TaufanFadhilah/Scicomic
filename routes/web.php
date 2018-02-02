@@ -39,6 +39,8 @@ Route::get('/material/air', function () {
     return view('materials.air');
 })->name('material.air');
 
+Route::post('material/','HomeController@absent')->name('absent.store');
+
 Route::get('/about', function () {
     return view('about');
 })->name('about');

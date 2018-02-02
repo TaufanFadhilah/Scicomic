@@ -2,7 +2,7 @@
   <div class="col s12 m12">
     <div class="card">
       <div class="card-content">
-        <img src="{{asset('img/air.jpg')}}" class="responsive-img">
+        <img src="{{asset('img/air.png')}}" class="responsive-img">
         <pre>
           Artikel
         </pre>

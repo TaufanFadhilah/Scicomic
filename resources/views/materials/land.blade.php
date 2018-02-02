@@ -30,7 +30,7 @@
       @include('materials.comic.land')
     </div>
     <div id="test4" class="col s12">
-      @include('materials.comic.land')
+      @include('materials.glossarium.land')
     </div>
     <div id="test5" class="col s12">
       @include('materials.bibliography.land')
