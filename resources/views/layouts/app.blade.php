@@ -26,12 +26,11 @@
               <p class="grey-text text-lighten-4">Komik Web IPA</p>
             </div>
             <div class="col l4 offset-l2 s12">
-              <h5 class="white-text">Links</h5>
+              <h5 class="white-text">Halaman</h5>
               <ul>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                <li><a class="grey-text text-lighten-3" href="{{route('objective')}}">Tujuan Pembelajaran</a></li>
+                <li><a class="grey-text text-lighten-3" href="{{route('materials')}}">Materi Pembelajaran</a></li>
+                <li><a class="grey-text text-lighten-3" href="{{route('about')}}">Tentang Situs</a></li>
               </ul>
             </div>
           </div>
@@ -39,7 +38,7 @@
         <div class="footer-copyright">
           <div class="container">
             © 2018 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">About Developer</a>
+            <a class="grey-text text-lighten-4 right" href="https://www.linkedin.com/in/taufan-fadhilah-iskandar-13a3a6a1/">About Developer</a>
           </div>
         </div>
       </footer>

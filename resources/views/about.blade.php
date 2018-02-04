@@ -6,12 +6,12 @@
       <div class="card">
         <div class="card-content full-height">
           <span class="card-title cyan-text">Tentang Situs</span>
-          <p>&quot;Komik Web IPA&quot; adalah bahan ajar IPA yang dikembangkan sesuai dengan kurikulum 2013
-dengan berorientasi pada langkah-langkah problem solving dan ditujukan untuk siswa-siswi
-serta guru SMP/MTs. Anda dapat mempelajari tentang materi-materi mata pelajaran IPA
-melalui tema-tema pelajaran yang dirancang dalam bentuk webcomic berorientasi problem
-solving. Anda juga dapat mengunduh komik dan soal evaluasi terkait tema pelajaran-
-pelajaran tersebut secara gratis.</p>
+          <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scicomic adalah komik IPA berbasis <i>web</i> yang dikembangkan sesuai dengan
+kurikulum 2013 dengan berorientasi pada langkah-langkah <i>problem solving</i> dan
+ditujukan untuk siswa dan guru SMP/MTs. Dalam situs ini Anda dapat mempelajari
+tentang materi IPA melalui tema pelajaran yang disusun dalam bentuk <i>webcomic</i>.
+Selain itu, Anda juga dapat mengunduh komik dengan tema yang telah disediakan
+secara gratis.</p>
         </div>
       </div>
     </div>

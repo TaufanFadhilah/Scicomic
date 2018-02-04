@@ -24,13 +24,13 @@
       @include('materials.preliminary.air')
     </div>
     <div id="test2" class="col s12">
-      @include('materials.instruction.air')
+      @include('materials.instruction.index')
     </div>
     <div id="test3" class="col s12">
       @include('materials.comic.air')
     </div>
     <div id="test4" class="col s12">
-      @include('materials.glossarium.air')
+      @include('materials.glossarium.index')
     </div>
     <div id="test5" class="col s12">
       @include('materials.bibliography.air')

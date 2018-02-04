@@ -14,8 +14,8 @@
   <div class="parallax">
     <img src="{{asset('img/header.jpg')}}">
   </div>
-  <h1 class="amber-text">Scicomic</h1>
-  <h4 class="amber-text">Selamat datang di Komik Web IPA</h4>
+  <h1 class="cyan-text">SCICOMIC</h1>
+  <h5 class="cyan-text">SELAMAT DATANG DI KOMIK WEB IPA</h5>
 </div>
 <div class="container-fluid white half-height">
   <div class="row" style="padding-top: 10%; padding-bottom: 10%">
@@ -24,12 +24,10 @@
     </div>
     <div class="col l7 s12">
       <p>
-        &quot;Komik Web IPA&quot; adalah bahan ajar IPA yang dikembangkan sesuai dengan kurikulum 2013
-        dengan berorientasi pada langkah-langkah problem solving dan ditujukan untuk siswa-siswi
-        serta guru SMP/MTs. Anda dapat mempelajari tentang materi-materi mata pelajaran IPA
-        melalui tema-tema pelajaran yang dirancang dalam bentuk webcomic berorientasi problem
-        solving. Anda juga dapat mengunduh komik dan soal evaluasi terkait tema pelajaran-
-        pelajaran tersebut secara gratis.
+        Scicomic adalah media belajar IPA berupa komik <i>web</i> berisi rangkaian cerita bergambar yang memuat konten edukasi
+dengan tulisan untuk memperjelas sajian gambar, dan diterbitkan melalui <i>web</i> dengan memanfaatkan jaringan internet.
+Tema yang disajikan dalam Scicomic berkaitan dengan permasalahan lingkungan yang terjadi di lingkungan sekitar
+kita. Scicomic dirancang dengan berorientasi pada pendekatan <i>problem solving</i>.
       </p>
     </div>
   </div>

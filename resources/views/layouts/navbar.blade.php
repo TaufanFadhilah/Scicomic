@@ -7,7 +7,6 @@
       <li><a href="{{route('kikd')}}">KI & KD</a></li>
       <li><a href="{{route('objective')}}">Tujuan Pembelajaran</a></li>
       <li><a href="{{route('materials')}}">Materi Pembelajaran</a></li>
-      <li><a href="evaluasi.html">Evaluasi</a></li>
       <li><a href="{{route('about')}}">Tentang Situs</a></li>
       <li><a href="{{route('profile')}}">Profil</a></li>
       @auth
@@ -30,7 +29,6 @@
       <li><a href="{{route('kikd')}}">KI & KD</a></li>
       <li><a href="{{route('objective')}}">Tujuan Pembelajaran</a></li>
       <li><a href="{{route('materials')}}">Materi Pembelajaran</a></li>
-      <li><a href="evaluasi.html">Evaluasi</a></li>
       <li><a href="{{route('about')}}">Tentang Situs</a></li>
       <li><a href="{{route('profile')}}">Profil</a></li>
       @auth

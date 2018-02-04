@@ -24,13 +24,13 @@
       @include('materials.preliminary.water')
     </div>
     <div id="test2" class="col s12">
-      @include('materials.instruction.water')
+      @include('materials.instruction.index')
     </div>
     <div id="test3" class="col s12">
       @include('materials.comic.water')
     </div>
     <div id="test4" class="col s12">
-      @include('materials.glossarium.water')
+      @include('materials.glossarium.index')
     </div>
     <div id="test5" class="col s12">
       @include('materials.bibliography.water')

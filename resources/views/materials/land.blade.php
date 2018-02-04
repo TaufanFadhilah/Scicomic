@@ -24,13 +24,13 @@
       @include('materials.preliminary.land')
     </div>
     <div id="test2" class="col s12">
-      @include('materials.instruction.land')
+      @include('materials.instruction.index')
     </div>
     <div id="test3" class="col s12">
       @include('materials.comic.land')
     </div>
     <div id="test4" class="col s12">
-      @include('materials.glossarium.land')
+      @include('materials.glossarium.index')
     </div>
     <div id="test5" class="col s12">
       @include('materials.bibliography.land')
