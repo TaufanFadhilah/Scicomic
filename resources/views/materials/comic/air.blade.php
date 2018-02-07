@@ -3,11 +3,25 @@
   <div class="card">
     <div class="card-content">
       @if (session()->has('class'))
-        <div class="hide-on-med-and-down">
-          <iframe src = "/js/ViewerJS/#../../comic/komik2.pdf" width='900' height='1000' allowfullscreen webkitallowfullscreen></iframe>
-        </div>
-        <div class="hide-on-large-only">
-          <iframe src = "/js/ViewerJS/#../../comic/komik2.pdf" width='200' height='1000' allowfullscreen webkitallowfullscreen></iframe>
+        <div class="row">
+          <div class="col l12">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\Sampul_revisi [story 2].png')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\Pengenalan Tokoh [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\01 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\02 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\03 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\04 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\05 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\06 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\07 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\08 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\09 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\10 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\11 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\12 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\13 [story 2].jpg')}}" class="responsive-img">
+            <a href="{{asset('comic/komik2.pdf')}}" class="btn cyan white-text">Download Komik PDF</a>
+          </div>
         </div>
       @else
         <form action="{{route('absent.store')}}" method="POST">

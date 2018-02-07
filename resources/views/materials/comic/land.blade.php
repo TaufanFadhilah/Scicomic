@@ -3,11 +3,21 @@
   <div class="card">
     <div class="card-content">
       @if (session()->has('class'))
-        <div class="hide-on-med-and-down">
-          <iframe src = "/js/ViewerJS/#../../comic/komik3.pdf" width='900' height='1000' allowfullscreen webkitallowfullscreen></iframe>
-        </div>
-        <div class="hide-on-large-only">
-          <iframe src = "/js/ViewerJS/#../../comic/komik3.pdf" width='200' height='1000' allowfullscreen webkitallowfullscreen></iframe>
+        <div class="row">
+          <div class="col l12">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\Sampul_revisi [story 3].png')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\Pengenalan Tokoh [Story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\01 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\02 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\03 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\04 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\05 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\06 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\07 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\08 [story 3].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 3] Pencemaran Tanah\09 [story 3].jpg')}}" class="responsive-img">
+            <a href="{{asset('comic/komik3.pdf')}}" class="btn cyan white-text">Download Komik PDF</a>
+          </div>
         </div>
       @else
         <form action="{{route('absent.store')}}" method="POST">

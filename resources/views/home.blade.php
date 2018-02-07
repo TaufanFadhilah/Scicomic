@@ -7,7 +7,7 @@
         <div class="card">
           <div class="card-content">
             <span class="card-title">Selamat Datang {{Auth::user()->name}}</span>
-            <p>Terima kasih karena telah bergabung dengan website ini. Senang bisa membantu</p>
+            <p>Terima kasih karena telah bergabung dengan website ini. Selamat belajar</p>
           </div>
         </div>
       </div>

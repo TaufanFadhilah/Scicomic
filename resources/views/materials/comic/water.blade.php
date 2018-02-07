@@ -3,11 +3,24 @@
   <div class="card">
     <div class="card-content">
       @if (session()->has('class'))
-        <div class="hide-on-med-and-down">
-          <iframe src = "/js/ViewerJS/#../../comic/komik1.pdf" width='900' height='1000' allowfullscreen webkitallowfullscreen></iframe>
-        </div>
-        <div class="hide-on-large-only">
-          <iframe src = "/js/ViewerJS/#../../comic/komik1.pdf" width='200' height='1000' allowfullscreen webkitallowfullscreen></iframe>
+        <div class="row">
+          <div class="col l12">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\00 Sampul [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\00 Pengenalan Tokoh [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\01 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\02 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\03 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\04 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\05 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\06 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\07 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\08 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\09 [story 1].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 1] Pencemaran Air\10 [story 1].jpg')}}" class="responsive-img">
+          </div>
+          <div class="col l12">
+            <a href="{{asset('comic/komik1.pdf')}}" class="btn cyan white-text">Download Komik PDF</a>
+          </div>
         </div>
       @else
         <form action="{{route('absent.store')}}" method="POST">
