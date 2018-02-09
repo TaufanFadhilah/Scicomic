@@ -10,7 +10,7 @@
         <div class="card-content">
           <div class="row">
             <div class="col l4 s12">
-              <img src="{{asset('img/air.png')}}" class="responsive-img material-img">
+              <img src="{{asset('intro_comic\1.jpg')}}" class="responsive-img material-img">
             </div>
             <div class="col l8 s12">
               <a href="{{route('material.water')}}"><h5 class="cyan-text">Pencemaran Air</h5> <br></a>
@@ -34,10 +34,10 @@ tercemar dapat menjadi penyebab utama penyakit dan kematian makhluk hidup.
         <div class="card-content">
           <div class="row">
             <div class="col l4 s12">
-              <img src="{{asset('img/udara.jpg')}}" class="responsive-img material-img">
+              <img src="{{asset('intro_comic\2.png')}}" class="responsive-img material-img">
             </div>
             <div class="col l8 s12">
-              <a href="{{route('material.air')}}"><h5 class="cyan-text">Pencemaran udara</h5> <br></a>
+              <a href="{{route('material.air')}}"><h5 class="cyan-text">Pencemaran Udara</h5> <br></a>
               <p>
                 Udara merupakan salah satu faktor abiotik yang memengaruhi kehidupan makhluk
 hidup. Udara mengandung senyawa-senyawa berwujud gas, diantaranya adalah oksigen.
@@ -62,7 +62,7 @@ karena dapat menyebabkan tercemarnya udara.
         <div class="card-content">
           <div class="row">
             <div class="col l4 s12">
-              <img src="{{asset('img/tanah.jpeg')}}" class="responsive-img material-img">
+              <img src="{{asset('intro_comic\3.png')}}" class="responsive-img material-img">
             </div>
             <div class="col l8 s12">
               <a href="{{route('material.land')}}"><h5 class="cyan-text">Pencemaran Tanah</h5> <br></a>

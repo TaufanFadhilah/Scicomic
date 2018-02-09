@@ -2,21 +2,18 @@
   <div class="col s12 m12">
     <div class="card">
       <div class="card-content">
-        <img src="{{asset('img/air.png')}}" class="responsive-img">
-        <p>
-          Air merupakan sumber daya alam yang sangat penting bagi makhluk hidup. Dalam
-kehidupan sehari-hari, makhluk hidup selalu membutuhkan air, termasuk manusia. Manusia
-sangat membutuhkan air bersih dalam aktivitas sehari-hari, antara lain minum, mandi,
-mencuci, memasak, dan sebagainya. Akan tetapi air juga termasuk sumber daya alam yang
-paling terancam di dunia. Selain semakin meningkatnya ancaman kekeringan karena
-perubahan iklim, dimana sumber air di seluruh dunia menghadapi ancaman yang berpotensi
-kekeringan saat iklim kemarau, setiap tahunnya air juga menjadi semakin tercemar. Air yang
-tercemar dapat menjadi penyebab utama penyakit dan kematian makhluk hidup.
+        <center><img src="{{asset('intro_comic\1.jpg')}}" class="responsive-img material-img"></center>
+        <p align="justify">
+          Komik ini bercerita tentang Cakra dan Bima yang penasaran dengan kondisi
+sungai di dekat sekolah mereka. Cakra dan Bima menemukan ikan-ikan di sungai
+tersebut dalam kondisi mengambang di permukaan sungai. Kira-kira apa yang terjadi
+dengan sungai tersebut ya? Mengapa ikan-ikan di sungai tersebut banyak yang mati?
+Untuk mengetahuinya, mari kita ikuti cerita selengkapnya!
         </p>
       </div>
       <div class="card-action">
-        <a href="#" class="btn cyan white-text">Petunjuk Penggunaan</a>
-        <a href="#" class="btn green white-text">Mulai Membaca</a>
+        <a href="{{route('material.water')}}#test2" class="btn cyan white-text">Petunjuk Untuk Membaca Komik</a>
+        <a href="{{asset('comic/komik1.pdf')}}" class="btn green white-text">Mulai Membaca</a>
       </div>
     </div>
   </div>

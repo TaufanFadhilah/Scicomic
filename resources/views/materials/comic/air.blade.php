@@ -5,21 +5,21 @@
       @if (session()->has('class'))
         <div class="row">
           <div class="col l12">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\Sampul_revisi [story 2].png')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\Pengenalan Tokoh [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\01 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\02 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\03 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\04 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\05 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\06 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\07 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\08 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\09 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\10 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\11 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\12 [story 2].jpg')}}" class="responsive-img">
-            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\13 [story 2].jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\0 Sampul.png')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\00 Pengenalan Tokoh.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\1.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\2.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\3.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\4.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\5.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\6.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\7.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\8.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\9.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\10.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\11.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\12.jpg')}}" class="responsive-img">
+            <img src="{{asset('comic_img\[Story 2] Pencemaran Udara\13.jpg')}}" class="responsive-img">
             <a href="{{asset('comic/komik2.pdf')}}" class="btn cyan white-text">Download Komik PDF</a>
           </div>
         </div>

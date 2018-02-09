@@ -3,7 +3,7 @@
   <div class="card">
     <div class="card-content">
       <div class="row">
-        <h5 class="cyan-text center">PETUNJUK PENGGUNAAN <br> <i>WEBCOMIC</i> BERORIENTASI <i>PROBLEM SOLVING</i> </h5> <br>
+        <h5 class="cyan-text center">PETUNJUK UNTUK MEMBACA KOMIK <br> <i>WEBCOMIC</i> BERORIENTASI <i>PROBLEM SOLVING</i> </h5> <br>
         <p>
           <b>A. Akses <i></i>Webcomic</b> <br>
           Tahapan untuk mengakses <i>webcomic</i> berorientasi problem <i>solving</i> adalah sebagai berikut:

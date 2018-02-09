@@ -55,10 +55,6 @@ sumber lain yang dalam sudut pandang/teori.</td>
                   <td>Menganalisis terjadinya pencemaran lingkungan dan dampaknya bagi ekosistem</td>
                 </tr>
                 <tr>
-                  <td>4.8</td>
-                  <td>Membuat tulisan tentang gagasan penyelesaian masalah pencemaran di lingkungannya
-berdasarkan hasil pengamatan</td>
-                </tr>
               </table>
             </div>
           </div>
@@ -84,10 +80,6 @@ berdasarkan hasil pengamatan</td>
                   <td>Menjelaskan pengertian pencemaran air</td>
                 </tr>
                 <tr>
-                  <td>3.8.4</td>
-                  <td>Menyelidiki pengaruh air jernih dari tercemar terhadap kondisi (pergerakan) ikan</td>
-                </tr>
-                <tr>
                   <td>3.8.6</td>
                   <td>Menjelaskan pengertian pencemaran udara</td>
                 </tr>
@@ -106,10 +98,6 @@ berdasarkan hasil pengamatan</td>
                 <tr>
                   <td>3.8.10</td>
                   <td>Menjelaskan dampak pencemaran tanah</td>
-                </tr>
-                <tr>
-                  <td>4.8.1</td>
-                  <td>Menyajikan beberapa contoh pencemaran air yang ada di lingkungan sekitar</td>
                 </tr>
               </table>
             </div>

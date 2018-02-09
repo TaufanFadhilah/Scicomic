@@ -6,7 +6,7 @@
       <div class="card white">
         <div class="card-content full-height">
           <span class="card-title cyan-text">Tujuan Pembelajaran</span>
-          <table>
+          {{-- <table>
             <tr>
               <td>3.8.1.1</td>
               <td>Peserta didik dapat menjelaskan pengertian pencemaran lingkungan</td>
@@ -54,7 +54,17 @@ lingkungan sekitar</td>
               <td>Peserta didik mampu membuat tulisan tentang penyelesaian masalah pencemaran
 di lingkungannya berdasarkan hasil pengamatan</td>
             </tr>
-          </table>
+          </table> --}}
+          <p>
+            3.8.1.1 Peserta didik dapat menjelaskan pengertian pencemaran lingkungan <br>
+            3.8.2.1 Peserta didik dapat menjelaskan macam-macam pencemaran lingkungan <br>
+            3.8.3.1 Peserta didik mampu menjelaskan pengertian pencemaran air <br>
+            3.8.6.1 Peserta didik mampu menjelaskan pengertian pencemaran udara <br>
+            3.8.7.1 Peserta didik mampu menyebutkan faktor-faktor penyebab pencemaran udara <br>
+            3.8.8.1 Peserta didik mampu menjelaskan dampak pencemaran udara <br>
+            3.8.9.1 Peserta didik mampu menjelaskan pengertian pencemaran tanah <br>
+            3.8.10.1 Peserta didik mampu menjelaskan dampak pencemaran tanah <br>
+          </p>
         </div>
       </div>
     </div>

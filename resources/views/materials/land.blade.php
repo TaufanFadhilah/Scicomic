@@ -42,6 +42,7 @@
 <script type="text/javascript">
   $(document).ready(function(){
     $('ul.tabs').tabs();
+    $('select').material_select();
   });
 </script>
 @endpush
